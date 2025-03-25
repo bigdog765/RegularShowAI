@@ -1,0 +1,6 @@
+/.idea
+/.vs
+/Library
+/Packages
+discord-connection/src/API_KEY
+discord-connection/src/BOT_TOKEN.env
